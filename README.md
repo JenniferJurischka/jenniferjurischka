@@ -6,7 +6,7 @@
 <h1 color="787878" align="center">☁ Welcome to Jennifer Jurischka GitHub ☁</h1>
 
 <p align="center">
-  <a href="www.linkedin.com/in/jennifer-jurischka"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"></a>
+  <a href="www.linkedin.com/in/jennifer-jurischka"><img src="imagem-banner/logo-linkedin"></a>
   <a href="vercel.com/jenniferjurischkas-projects"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"></a>
   <a href="jennifer.jurischka@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"></a>
 </p>
