@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://unsplash.com/pt-br/fotografias/uma-foto-em-preto-e-branco-de-nuvens-no-ceu-P0gUdUw6WdQ" />
+  <img src="imagens-banner/banner.jpg" width="600" />
 </p>
 
 <h1 color="787878" align="center">☁ Welcome to Jennifer Jurischka GitHub ☁</h1>
