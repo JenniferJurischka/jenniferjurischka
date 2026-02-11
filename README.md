@@ -1,16 +1,46 @@
-## Hi there 👋
+<!-- BANNER -->
+<p align="center">
+  <img src="https://unsplash.com/pt-br/fotografias/uma-foto-em-preto-e-branco-de-nuvens-no-ceu-P0gUdUw6WdQ" />
+</p>
 
-<!--
-**JenniferJurischka/jenniferjurischka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 color="787878" align="center">☁ Welcome to Jennifer Jurischka GitHub ☁</h1>
 
-Here are some ideas to get you started:
+### Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="www.linkedin.com/in/jennifer-jurischka"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"></a>
+  <a href="vercel.com/jenniferjurischkas-projects"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"></a>
+  <a href="jennifer.jurischka@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"></a>
+</p>
+
+## Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,python,html,css,git" width="230"/>
+          
+</p>
+
+## Estatísticas
+
+<div>
+<a href="https://github.com/jenniferjurischka">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferjurischka&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jenniferjurischka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+## Streak
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JenniferJurischka&theme=city-lights&locale=pt_BR" alt="GitHub Streak" /></a>
+</p>
+
+
+
+## Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JenniferJurischka&bg_color=1d252c&color=5986ad&line=718ca1&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+
