@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="imagens-banner/banner.jpg" width="600" />
+  <img src="imagem-banner/banner.jpg" width="500" />
 </p>
 
 <h1 color="787878" align="center">☁ Welcome to Jennifer Jurischka GitHub ☁</h1>
