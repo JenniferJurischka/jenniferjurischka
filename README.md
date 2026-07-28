@@ -46,14 +46,12 @@ Currently I'm focused on:
           
 </p>
 
-## Estatísticas
+## Currently
 
-<div>
-<a href="https://github.com/jenniferjurischka">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferjurischka&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jenniferjurischka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+- Studying Systems Analysis and Development
+- Building personal projects with React
+- Learning Next.js
+- Looking for my first opportunity as a developer
 
 ## Streak
 
