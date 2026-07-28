@@ -17,7 +17,7 @@
 ## Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,python,html,css,git,nodejs,obsidian,powershell,pycharm,supabase,tailwind,vite,vscode" width="500"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,python,html,css,git,nodejs,obsidian,powershell,pycharm,supabase,tailwind,vite,vscode" width="750"/>
           
 </p>
 
