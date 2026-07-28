@@ -41,8 +41,8 @@ Currently I'm focused on:
 
 ## Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,python,html,css,git,nodejs,obsidian,powershell,pycharm,supabase,tailwind,vite,vscode" width="750"/>
+<p align="center" width="750">
+<img src="https://skillicons.dev/icons?i=js,ts,react,python,html,css,git,nodejs,obsidian,powershell,pycharm,supabase,tailwind,vite,vscode"/>
           
 </p>
 
